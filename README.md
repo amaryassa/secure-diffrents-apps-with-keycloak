@@ -1,11 +1,11 @@
 # Secure differents Apps with Keycloak 9.0.1
-## Angular - Spring thymeleaf - Spring Micro Service
+## Angular + Spring thymeleaf + Spring Micro Service
 
-### ecom-app :  Spring + Thymeleaf
+### 1) ecom-app :  Spring + Thymeleaf
 
  
-### keycloak-app :   Angular 9
+### 2) keycloak-app :   Angular 9
 
 
-### supplierService : Micro Service Spring
+### 3)supplierService : Micro Service Spring
   
